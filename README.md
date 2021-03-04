@@ -1,3 +1,3 @@
 # zacheryFloyd.github.io
 
-My simple "website" for hosting my resume.
+A simple "website" for hosting my resume.
